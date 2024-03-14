@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=halismertkir&label=Profile%20views&color=0e75b6&style=flat" alt="halismertkir" /> </p>-->
 
-- 🌱 I’m currently learning **Entity Framework and ASP.NET MVC**
+- 🌱 I’m currently learning **Penetration Test**
 
 - 📫 How to reach me **haliskir520@gmail.com**
 
