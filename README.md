@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Halis Mert Kır</h1>
-<h3 align="center">Samsun University 2nd Year Software Engineer student</h3>
+<h3 align="center">Samsun University 3nd Year Software Engineer student</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=halismertkir&label=Profile%20views&color=0e75b6&style=flat" alt="halismertkir" /> </p>-->
 
-- 🌱 I’m currently learning **Penetration Test**
+- 🌱 I’m currently learning **MVC Project and REST-RESTful API**
 
 - 📫 How to reach me **haliskir520@gmail.com**
 
