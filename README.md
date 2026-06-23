@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Halis Mert Kır</h1>
-<h3 align="center">Samsun University 4th Year Software Engineer student</h3>
 
 - 🌱 I’m currently learning **AI Agent Development**
 
